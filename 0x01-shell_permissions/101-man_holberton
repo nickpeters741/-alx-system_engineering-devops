@@ -1,6 +1,6 @@
 ./" Manpage for eniac
 ./" Contact carloertola@gmail.com for any problems or adjustments
-.TH man 2 "10 December 1945" "1.0" "eniac man page"
+.TH man 2 "10 December 1945" "0.32" "eniac man page"
 .SH NAME
 eniac \- the first electronic general-purpose digital computer.
 .SH SYNOPSYS
